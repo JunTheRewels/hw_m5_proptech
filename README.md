@@ -1,4 +1,4 @@
-# hw_m6_proptech
+# proptech
 
 This file serves to aggregate, analyze, and vizualize housing unit sale price per square foot (hereafter referred to as "sale price") and gross rent (hereafter referred to as rent) in San Francisco, 2010-2016. Its purpose is to inform the viability of implementing a "proptech" one-click service for people to buy properties and then rent them.
 
